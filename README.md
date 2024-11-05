@@ -21,3 +21,5 @@ Data yang diambil merupakan data yang terkait dengan putusan-putusan kasus Narko
                  bukti
      - Kolom 5 : Amar Putusan, Ringkasan keputusan hakim, seperti hukuman, perintah, pembebasan
                  terdakwa, atau sanksi
+
+Sumber berasal dari [PutusanMahkamah Agung Pengadilan Negeri Malang](https://putusan3.mahkamahagung.go.id/direktori/index/pengadilan/pn-malang/kategori/narkotika-dan-psikotropika-1.html)
