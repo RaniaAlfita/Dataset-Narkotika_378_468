@@ -6,12 +6,14 @@ Disusun oleh :
 ## Deskripsi Dataset
 Data yang diambil merupakan data yang terkait dengan putusan-putusan kasus Narkotika dan Psikotropika yang diputuskan oleh Mahkamah Agung Pengadilan Negeri Malang pada Tahun 2024.
 
+## Informasi Dataset
+
 1. Narkotika.zip
    File berisi 50 dokumen putusan pengadilan dengan ekstensi *.pdf
 
 2.  Overview.xlsx
    File berisi 50 dataset putusan dengan 5 kolom sebagai berikut :
-     - Kolom 1 : No, Nomor urut untuk setiap entri 
+     * Kolom 1 : No, Nomor urut untuk setiap entri 
      - Kolom 2 : Nomor Putusan, Kode putusan pengadilan yang memuat tahun, jenis perkara, dan identitas
                  pengadilan
      - Kolom 3 : Lembaga Peradilan, Nama institusi atau pengadilan yang memutus perkara
